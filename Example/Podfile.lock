@@ -1,0 +1,16 @@
+PODS:
+  - BFAlertView (0.1.0)
+
+DEPENDENCIES:
+  - BFAlertView (from `../`)
+
+EXTERNAL SOURCES:
+  BFAlertView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BFAlertView: 501f1890eebbee1976ef206495cbc2179271e787
+
+PODFILE CHECKSUM: 16df757863d7d53394ed961982e42707a57f3ee6
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'BFAlertView_Tests' do
+  pod 'BFAlertView', :path => '../'
+  
+  
+end
